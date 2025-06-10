@@ -1,11 +1,11 @@
 {
-  "admin": [
-    {
-      "username": "mk",
-      "password": "$2a$12$4N8I28iZjU6bT67YwTVJ9ema1JxgZsaDdv91/IWFeah9G3rXTD3nG", 
-      "subscription": "aimkillapk",
-      "device_id": "",
-      "expiry": "2025-12-31"
-    }
-  ]
+    "admin": [
+        {
+            "username": "mk",
+            "password": "$2a$12$4N8I28iZjU6bT67YwTVJ9ema1JxgZsaDdv91\/IWFeah9G3rXTD3nG",
+            "subscription": "aimkillapk",
+            "device_id": "dd6c0dc5acd633ca",
+            "expiry": "2025-12-31"
+        }
+    ]
 }
