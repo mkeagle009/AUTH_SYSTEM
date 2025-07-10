@@ -1,25 +1,25 @@
 {
-  "admin": [
-    {
-      "username": "mk",
-      "password": "$2a$12$26Yt5WS9BIFYX3zi7v2f.u.rlHcOd5/38J56z5ixHTba2LnTJL2jm",
-      "subscription": "aimkillapk",
-      "device_id": "f63fae435ee67680",
-      "expiry": "2025-12-31"
-    },
-    {
-      "username": "1",
-      "password": "$2a$12$26Yt5WS9BIFYX3zi7v2f.u.rlHcOd5/38J56z5ixHTba2LnTJL2jm",
-      "subscription": "All",
-      "device_id": "",
-      "expiry": "2035-12-31"
-    },
-    {
-      "username": "2",
-      "password": "$2a$12$.vXfO4zLR.S84ouVyl6MauUbZakoKqj3wPzuALNl8Ru1vQUJLsg22",
-      "subscription": "All",
-      "device_id": "S-1-5-21-752558002-3529375721-4154585235-500",
-      "expiry": "2035-12-31"
-    }
-  ]
+    "admin": [
+        {
+            "device_id": "f63fae435ee67680",
+            "expiry": "2025-12-31",
+            "password": "$2a$12$26Yt5WS9BIFYX3zi7v2f.u.rlHcOd5/38J56z5ixHTba2LnTJL2jm",
+            "subscription": "aimkillapk",
+            "username": "mk"
+        },
+        {
+            "device_id": "S-1-5-21-1522378060-3897652385-499819754-500",
+            "expiry": "2035-12-31",
+            "password": "$2a$12$26Yt5WS9BIFYX3zi7v2f.u.rlHcOd5/38J56z5ixHTba2LnTJL2jm",
+            "subscription": "All",
+            "username": "1"
+        },
+        {
+            "device_id": "S-1-5-21-752558002-3529375721-4154585235-500",
+            "expiry": "2035-12-31",
+            "password": "$2a$12$.vXfO4zLR.S84ouVyl6MauUbZakoKqj3wPzuALNl8Ru1vQUJLsg22",
+            "subscription": "All",
+            "username": "2"
+        }
+    ]
 }
