@@ -37,7 +37,7 @@
     },
     {
       "username": "musti",
-      "password": "$2y$10$fczf./wam1pTPXkQokCdEeI1st8iPs7R5DUaR6/BMXWM.IBD71gxy,
+      "password": "$2a$12$AoXd3ApXCBXro/aBHSBFGeBJRXVy2qKYv.cva168kJHfp/FedKMgu,
       "subscription": "All",
       "device_id": "",
       "expiry": "2035-12-31"
@@ -46,6 +46,7 @@
   ]
 
 }
+
 
 
 
