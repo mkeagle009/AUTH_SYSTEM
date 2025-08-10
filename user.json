@@ -34,10 +34,19 @@
       "subscription": "All",
       "device_id": "",
       "expiry": "2035-12-31"
+    },
+    {
+      "username": "musti",
+      "password": "$2y$10$fczf./wam1pTPXkQokCdEeI1st8iPs7R5DUaR6/BMXWM.IBD71gxy,
+      "subscription": "All",
+      "device_id": "",
+      "expiry": "2035-12-31"
     }
+    
   ]
 
 }
+
 
 
 
