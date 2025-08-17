@@ -41,6 +41,13 @@
       "subscription": "All",
       "device_id": "S-1-5-21-432639158-2250285020-1234613747-1001",
       "expiry": "2035-12-31"
+    },
+    {
+      "username": "yash",
+      "password": "$2a$12$QYVkJQF5Ufpap7CtTcaYBubtJbrekUFfaziR9OyIUQQ5f5IElqXh6",
+      "subscription": "All",
+      "device_id": "",
+      "expiry": "2025-9-19"
     }
   ]
 }
