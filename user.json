@@ -40,7 +40,7 @@
       "password": "$2a$12$oVvbi0cedDgoeB4K5vkPeO6hMha/oTErYg79QhUc5JPKo.DSRvDnK",
       "subscription": "All",
       "device_id": "",
-      "expiry": "2035-12-31"
+      "expiry": "2025-10-10"
     },
     {
       "username": "yash",
@@ -52,4 +52,5 @@
   ]
 
 }
+
 
